@@ -1,0 +1,11 @@
+APP_NAME = "Pipeline Monitoring System"
+
+VERSION = "1.0"
+
+SUCCESS = "SUCCESS"
+
+FAILED = "FAILED"
+
+RUNNING = "RUNNING"
+
+WAITING = "QUEUED"
